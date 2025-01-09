@@ -42,7 +42,8 @@ Like this:
 <img src="https://i.ibb.co/S7chr50/image.png" alt="Screenshot">
 
 However, after a while, I noticed a few things I didn't like about the game, notably the lack of diversity in the distribution of weapons and outfits, as well as the way certain distributions were carried out. Not to mention the fact that, in my humble opinion, certain distributions make no sense at all.
-So **S.L.O.A.D** brings its share of fixes. Of course, if some of them don't suit you, you're free to "deactivate" them by commenting / deleting the linked line in the SkyPatch `.ini' files. That's how practical **S.L.O.A.D** is.
+So **S.L.O.A.D** brings its share of fixes.<br>
+Of course, if some of them don't suit you, you're free to "deactivate" them by commenting / deleting the linked line in the SkyPatch `.ini' files. That's how practical **S.L.O.A.D** is.
 
 
 # <span style="color: #E4B60A;" id="work">2. How does it works ?</span>
