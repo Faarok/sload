@@ -428,7 +428,7 @@ From now on, Stormcloaks commanders will have, randomly, the vanilla outfit or t
             * <span style="color: #00a822;">SteelArrow "Flèche d'acier" [AMMO:0001397F]</span>
             * <span style="color: #00a822;">EbonyArrow "Flèche d'ébonite" [AMMO:000139BF]</span>
             </details>
-        <details>
+        </details>
     *   <details>
         <summary>LItemsBretonCrossbowman [LVLI:FE00089D]</summary>
 
