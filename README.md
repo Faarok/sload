@@ -151,6 +151,16 @@ From now on, Stormcloaks commanders will have, randomly, the vanilla outfit or t
     ; OutfitBanditBreton [OTFT:FE043850]
     ```
     </details>
+*   <details>
+    <summary>Aranea Ienith will now wear Raven Rock temple robes</summary>
+
+    ```ini
+    ; DA01Aranea "Aranéa Iénith" [NPC_:00028AD0]
+    ; REPLACE OUTFIT BY ↓
+    ; DLC2DarkElfTempleOutfit [OTFT:0403CEED]
+    filterByNpcs=Skyrim.esm|00028AD0:outfitDefault=Dragonborn.esm|0403CEED
+    ```
+    </details>
 </details>
 
 <details>
