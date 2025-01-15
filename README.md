@@ -15,7 +15,8 @@
     * [4.2 List of LLs](#lls)
         * [Breton stuff](#lls-breton-stuff)
         * [Stormcloaks](#lls-stormcloak)
-        * [Redoran](#lls-redoran)
+        * [Raven Rock - Guards](#lls-raven-rock-guards)
+        * [Raven Rock - Temple](#lls-raven-rock-temple)
         * [Wanderer Encounter](#lls-wanderer-encounter)
     * [4.3 List of outfits](#outfits)
         * [Stormcloaks](#outfits-stormcloak)
@@ -559,7 +560,7 @@ From now on, Stormcloaks commanders will have, randomly, the vanilla outfit or t
 </details>
 
 <details>
-<summary style="color: #3BA5EA;" id="lls-redoran">Redoran</summary>
+<summary style="color: #3BA5EA;" id="lls-raven-rock-guards">Raven Rock - Guards</summary>
 
 *   <details>
     <summary>LOutfitRedoranGuardExterior [LVLI:FE000835]</summary>
@@ -772,6 +773,22 @@ From now on, Stormcloaks commanders will have, randomly, the vanilla outfit or t
         * <span style="color: #00a822;">LItemEnchGlassDagger [LVLI:000CB021]</span>
         * <span style="color: #00a822;">LItemEnchEbonyDagger [LVLI:000CB3C8]</span>
         * <span style="color: #00a822;">LItemEnchDaedricDagger [LVLI:000CB3DA]</span>
+    </details>
+</details>
+
+<details>
+<summary style="color: #3ba5ea;" id="lls-raven-rock-temple">Raven Rock - Temple</summary>
+
+*   <details>
+    <summary>LOutfitRavenRockTemple [LVLI:FE0008A5]</summary>
+
+    *   <details>
+        <summary>LItemsRavenRockTemple [LVLI:FE0008A6]</summary>
+
+        * <span style="color: #00a822;">DLC2TemplePriestRobes "Robe de prêtre du Temple" [ARMO:0401CDAB]</span>
+        * <span style="color: #00a822;">DLC2TemplePriestBoots "Bottes de prêtre du Temple" [ARMO:0403B04B]</span>
+        * <span style="color: #00a822;">DLC2TemplePriestHood "Capuche de prêtre du Temple" [ARMO:0403B04E]</span>
+        </details>
     </details>
 </details>
 
