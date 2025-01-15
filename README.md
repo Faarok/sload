@@ -1,6 +1,8 @@
 <span style="color: #d63e36;">S.L.O.A.D - Skyrim Logical Outfitting and Armament Diversification</span>
 ==================================================================
 
+> *You can find this mod on Nexus : https://www.nexusmods.com/skyrimspecialedition/mods/138556*
+
 # <span style="color: #E4B60A;">Summary</span>
 * [1. What is it ?](#intro)
 * [2. How does it works ?](#work)
